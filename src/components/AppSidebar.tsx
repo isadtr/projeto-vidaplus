@@ -11,7 +11,7 @@ import {
   SidebarMenuItem,
   useSidebar,
 } from "@/components/ui/sidebar";
-import logo from "@/assets/vidaplus-logo.png";
+import logo from "@/assets/logotipo.png";
 
 const patientItems = [
   { title: "Dashboard", url: "/dashboard", icon: Home },

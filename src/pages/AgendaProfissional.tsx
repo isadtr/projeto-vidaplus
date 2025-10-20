@@ -68,7 +68,7 @@ export default function AgendaProfissional() {
 
         <Card>
           <CardHeader>
-            <CardTitle>Agenda do Dia - Segunda, 25 de Março de 2024</CardTitle>
+            <CardTitle>Agenda do Dia - Segunda, 25 de Outubro de 2025</CardTitle>
             <CardDescription>Visualize e gerencie suas consultas</CardDescription>
           </CardHeader>
           <CardContent>
