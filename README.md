@@ -42,11 +42,11 @@ O projeto reúne diversas funcionalidades que simulam o ambiente de um hospital 
 
 ## ⚙️ Tecnologias Utilizadas
 
-- ⚡ **Vite** — ambiente rápido de desenvolvimento
-- ⚛️ **React** — estrutura principal da interface
-- 🎨 **Tailwind CSS** — estilização moderna e responsiva
-- 🧩 **HTML5** & **CSS3** — estrutura e layout
-- 💚 **Cores** — tons de **verde** foram escolhidos para remeter à **saúde e bem-estar**
+- **Vite** — ambiente rápido de desenvolvimento
+- **React** — estrutura principal da interface
+- **Tailwind CSS** — estilização moderna e responsiva
+- **HTML5** & **CSS3** — estrutura e layout
+- **Cores** — tons de **verde** foram escolhidos para remeter à **saúde e bem-estar**
 
 ---
 
